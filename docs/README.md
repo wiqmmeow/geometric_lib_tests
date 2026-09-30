@@ -22,7 +22,7 @@ Geometric Lib — учебный проект на Python, в котором д�
 ### circle.py
 - `area(r)`: площадь круга. Вызов: `circle.area(4)`
 - `perimeter(r)`: длина окружности. Вызов: `circle.perimeter(4)`
-
+ 
 ### square.py
 - `area(a)`: площадь квадрата. Вызов: `square.area(8)`
 - `perimeter(a)`: периметр квадрата. Вызов: `square.perimeter(8)`
