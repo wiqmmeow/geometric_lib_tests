@@ -31,5 +31,13 @@ class TestTriangle(unittest.TestCase):
 
     def test_perimeter(self):
         self.assertEqual(triangle.perimeter(3, 4, 5), 12)
+        
+class 1TestSquare(unittest.TestCase):
+    def test_area(self):
+        self.assertEqual(square.area(5), 25)
+
+    def test_perimeter(self):
+        self.assertEqual(square.perimeter(5), 20)
+
 if __name__ == "__main__":
     unittest.main()
